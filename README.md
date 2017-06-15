@@ -1,0 +1,1 @@
+# emuBlog-static
