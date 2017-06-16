@@ -10,21 +10,21 @@ First of all you need to install packages necessary for running gulp:
 `npm install`
 
 
-##using gulp for less compilation
+## using gulp for less compilation
 There is gulpfile.js with two commands: 
 
-###Compile less files
+### Compile less files
 command: `gulp less`
 
 This command recompiles less files and save them into `css/style.css`
 
 
-###Open Browser Watcher
+### Open Browser Watcher
 command: `gulp`
 
 This command will open special window of your default browser, which will automatically refresh every time, you modify your html / less files. 
 
-##what's in the box
+## what's in the box
 
 I've prepared some CSS libs here by default, you can use them as you wish:
 
